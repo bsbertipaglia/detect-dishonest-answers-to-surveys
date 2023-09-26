@@ -1,4 +1,3 @@
-# detect-dishonest-answers-to-surveys
 # Detect Dishonest Answers to Surveys using Machine Learning
 
 Lying can be defined as the act of hiding the truth using a false statement with the intention to make someone else believe it. The evaluation of a statement to detect dishonesty is known as lie detection.
